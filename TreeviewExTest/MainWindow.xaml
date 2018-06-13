@@ -1,0 +1,57 @@
+﻿<Window x:Class="TreeviewExTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:treeviewEx="clr-namespace:tainicom.TreeViewEx;assembly=TreeViewEx"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        
+    </Window.Resources>
+    <Grid PreviewMouseRightButtonDown="Grid_PreviewMouseRightButtonDown">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <treeviewEx:TreeViewEx x:Name="treeviewEx" OnSelecting="treeviewEx_OnSelecting">
+                <treeviewEx:TreeViewEx.ItemContainerStyle>
+                    <Style TargetType="treeviewEx:TreeViewExItem">
+                        <EventSetter Event="PreviewMouseRightButtonDown"  Handler="TreeViewExItem_PreviewMouseRightButtonDown"></EventSetter>
+                        <EventSetter Event="MouseRightButtonDown"  Handler="TreeViewExItem_MouseRightButtonDown"></EventSetter>
+                        <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}"></Setter>
+                        <Setter Property="ContextMenu" Value="{Binding ContextMenu}"></Setter>
+                    </Style>
+                </treeviewEx:TreeViewEx.ItemContainerStyle>
+                <treeviewEx:TreeViewEx.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                        <StackPanel>
+                            <TextBlock Text="{Binding DisplayName}"></TextBlock>
+                        </StackPanel>
+                    </HierarchicalDataTemplate>
+                </treeviewEx:TreeViewEx.ItemTemplate>
+            </treeviewEx:TreeViewEx>
+            <TreeView x:Name="treeview" Grid.Column="1">
+                <TreeView.ItemContainerStyle>
+                    <Style TargetType="TreeViewItem">
+                        <Setter Property="ContextMenu" Value="{Binding ContextMenu}"></Setter>
+                    </Style>
+                </TreeView.ItemContainerStyle>
+                <TreeView.ItemTemplate>
+                    <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                        <StackPanel>
+                            <TextBlock Text="{Binding DisplayName}"></TextBlock>
+                        </StackPanel>
+                    </HierarchicalDataTemplate>
+                </TreeView.ItemTemplate>
+            </TreeView>
+        </Grid>
+        
+        <Button Grid.Row="1" Height="30" Width="120" Click="Button_Click">
+            浏览
+        </Button>
+    </Grid>
+</Window>

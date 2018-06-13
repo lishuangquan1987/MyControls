@@ -1,0 +1,12 @@
+E:\Project2017\MyControls\TonyTab\bin\Debug\TonyTab.dll
+E:\Project2017\MyControls\TonyTab\bin\Debug\TonyTab.pdb
+E:\Project2017\MyControls\TonyTab\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab_MarkupCompile.cache
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab_MarkupCompile.lref
+E:\Project2017\MyControls\TonyTab\obj\Debug\Themes\Generic.baml
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab.g.resources
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab.Properties.Resources.resources
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab.csproj.GenerateResource.Cache
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab.dll
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab.pdb
+E:\Project2017\MyControls\TonyTab\obj\Debug\TonyTab.csprojResolveAssemblyReference.cache

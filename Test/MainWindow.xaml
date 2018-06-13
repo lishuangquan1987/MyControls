@@ -1,0 +1,31 @@
+﻿<Window x:Class="Test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:temp="clr-namespace:TemperatureGuage;assembly=TemperatureGuage"
+        xmlns:wait="clr-namespace:WetChatWait;assembly=WetChatWait"
+        xmlns:circleProcessBar="clr-namespace:CircleProcessBar;assembly=CircleProcessBar"
+        xmlns:host="clr-namespace:System.Windows.Forms.Integration;assembly=WindowsFormsIntegration"
+        xmlns:loadingCircle="clr-namespace:LoadingCircle;assembly=LoadingCircle"
+        xmlns:drawColor="clr-namespace:System.Drawing;assembly=System.Drawing"
+        xmlns:winform="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:circleGuage="clr-namespace:CircularGauge;assembly=CircularGauge"
+        xmlns:win8="clr-namespace:Win8LoadingCircle;assembly=Win8LoadingCircle"
+        Title="MainWindow" Height="700" Width="900" Loaded="Window_Loaded">
+    <Window.Resources>
+        <drawColor:Color x:Key="white">White</drawColor:Color>
+        <drawColor:Color x:Key="black">Black</drawColor:Color>
+    </Window.Resources>
+    <UniformGrid Columns="4" Rows="2">
+        <temp:TemperatureGuageControl x:Name="temperature" Msg="温度计" MsgLabelFontSize="20" MsgLabelMargion="-20,120,0,0" MsgLableForeground="Black" MaxValue="200" MainScaleColor="Blue" MinValue="00" CurrentValue="80" Color="Green"></temp:TemperatureGuageControl>
+        <wait:WetChatWaitControl IsActive="True" CircleCount="7" Radius="10"></wait:WetChatWaitControl>
+        <circleProcessBar:CircularProcessBarControl x:Name="circleBar" SuccessRate="80"></circleProcessBar:CircularProcessBarControl>
+        <StackPanel Orientation="Vertical">
+            <host:WindowsFormsHost Background="Black" Height="{Binding Path=ActualWidth,RelativeSource={RelativeSource Self}}">
+                <loadingCircle:LoadingCircleControl x:Name="loading"  InnerCircleRadius="12" OuterCircleRadius="20" SpokeThickness="2" RotationSpeed="80" NumberSpoke="12" BackColor="{StaticResource black}" Color="{StaticResource white}"  Active="True"></loadingCircle:LoadingCircleControl>            
+            </host:WindowsFormsHost>
+            <Label Background="Black" FontSize="20" Foreground="White" HorizontalContentAlignment="Center">请稍后...</Label>
+        </StackPanel>
+        <circleGuage:CircularGaugeControl Margin="0,0,-101,0"></circleGuage:CircularGaugeControl>
+        <win8:Win8LoadingCircleControl ParticleRadius="5" StartingPointY="-15" StartingPointX="-17"/>
+    </UniformGrid>
+</Window>

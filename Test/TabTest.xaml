@@ -1,0 +1,28 @@
+﻿<Window x:Class="Test.TabTest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+       xmlns:tony="clr-namespace:TonyTab;assembly=TonyTab"
+        Title="TabTest" Height="300" Width="500">
+    <Grid>
+        <tony:TonyTabControl BorderBrush="Transparent" FontSize="20" FontWeight="Bold">
+            <tony:TonyTabItem Header="个性推荐" Width="120" UnderLineHeight="3">
+                <Grid Background="LightBlue">
+                    
+                </Grid>
+            </tony:TonyTabItem>
+            <tony:TonyTabItem Header="歌单" Width="60" UnderLineHeight="3">
+                <Grid Background="LightCoral"></Grid>
+            </tony:TonyTabItem>
+            <tony:TonyTabItem Header="主播电台" Width="120" UnderLineHeight="3">
+                <Grid Background="LightCyan">
+                    
+                </Grid>
+            </tony:TonyTabItem>
+            <tony:TonyTabItem Header="排行榜" Width="90" UnderLineHeight="3">
+                <Grid Background="LightGray">
+
+                </Grid>
+            </tony:TonyTabItem>
+        </tony:TonyTabControl>
+    </Grid>
+</Window>

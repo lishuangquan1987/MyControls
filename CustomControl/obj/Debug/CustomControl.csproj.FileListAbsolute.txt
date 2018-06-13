@@ -1,0 +1,7 @@
+E:\Project2017\MyControls\CustomControl\bin\Debug\CustomControl.dll
+E:\Project2017\MyControls\CustomControl\bin\Debug\CustomControl.pdb
+E:\Project2017\MyControls\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+E:\Project2017\MyControls\CustomControl\obj\Debug\CustomControl.csproj.CoreCompileInputs.cache
+E:\Project2017\MyControls\CustomControl\obj\Debug\CustomControl.dll
+E:\Project2017\MyControls\CustomControl\obj\Debug\CustomControl.pdb
+E:\Project2017\MyControls\CustomControl\obj\Debug\CustomControl.UCIPInput.resources

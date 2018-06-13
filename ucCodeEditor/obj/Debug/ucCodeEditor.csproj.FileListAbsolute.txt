@@ -1,0 +1,369 @@
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\公司项目\涿州实验基地\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\xuj\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\xuj\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\xuj\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\xuj\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\caizhaojin\BaseATS(NEW)\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\公司项目\涿州实验基地\2015-04-02\短波超短波\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\短波超短波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\微波调试\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\微波调试\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\微波调试\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\微波调试\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\短波超短波调试\BaseATS(调试版5-26)\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\微波调试\6-1调试版\BaseATS(6-1)\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\短波超短波调试\6-2调试版\BaseATS(6-2)\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508\6.30\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508\6.30\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508\6.30\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508\6.30\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+F:\项目\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+F:\项目\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+F:\项目\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+F:\项目\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-4日修改V2\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\1508最新资料\源码\BaseATS-2015-9-8日修改V3\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\A 涿州项目资料\BaseATS-2015-12-3日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-12-29日修改\BaseATS\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\GitBackup\Project\1508\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\GitBackup\Project\1508\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\GitBackup\Project\1508\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.csprojResolveAssemblyReference.cache
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\GitBackup\Project\1508\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\Project2017\MyControls\ucCodeEditor\bin\Debug\ucCodeEditor.dll
+E:\Project2017\MyControls\ucCodeEditor\bin\Debug\ucCodeEditor.pdb
+E:\Project2017\MyControls\ucCodeEditor\bin\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.csprojResolveAssemblyReference.cache
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.FindForm.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.GoToForm.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.ReplaceForm.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.ucLuaEditor.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.ClassFileList.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.ComplieUI.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.textEditor.zh-CHS.resources
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.csproj.GenerateResource.Cache
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\zh-CHS\ucCodeEditor.resources.dll
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.dll
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.pdb
+E:\Project2017\MyControls\ucCodeEditor\obj\Debug\ucCodeEditor.Resource.resources

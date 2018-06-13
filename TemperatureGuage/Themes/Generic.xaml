@@ -1,0 +1,36 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:TemperatureGuage">
+    <Style TargetType="local:TemperatureGuageControl">
+        <Setter Property="MsgLabelMargion" Value="-25,125,0,0"></Setter>
+        <Setter Property="MsgLableForeground" Value="White"></Setter>
+        <Setter Property="MsgLabelFontSize" Value="12"></Setter>
+        <Setter Property="MeterHeight" Value="120"></Setter>
+        <Setter Property="MeterWidth" Value="30"></Setter>
+        <Setter Property="CurrentValue" Value="0"></Setter>
+        <Setter Property="SnapsToDevicePixels" Value="True"></Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="local:TemperatureGuageControl">
+                    <Grid Background="{TemplateBinding Background}">
+                        <Canvas x:Name="rootCanvas" Background="Gray"
+							Height="{Binding MeterHeight, RelativeSource={RelativeSource TemplatedParent}}"
+							Width="{Binding MeterWidth, RelativeSource={RelativeSource TemplatedParent}}"
+                               Margin="{Binding MeterMargin,RelativeSource={RelativeSource TemplatedParent}}">
+                            <Rectangle x:Name="rect" Width="{Binding MeterWidth, RelativeSource={RelativeSource TemplatedParent}}" Canvas.Left="0" Canvas.Bottom="0" 
+                                       Fill="{Binding Color, RelativeSource={RelativeSource TemplatedParent}}" />
+                            <Label x:Name="lbMsg" Content="{Binding Msg,RelativeSource={RelativeSource TemplatedParent}}" 
+                                   Canvas.Top="{Binding MsgLabelMargion.Top, RelativeSource={RelativeSource TemplatedParent}}"
+                                   Canvas.Left="{Binding MsgLabelMargion.Left, RelativeSource={RelativeSource TemplatedParent}}"
+                                   FontSize="{Binding MsgLabelFontSize, RelativeSource={RelativeSource TemplatedParent}}" 
+                                   Background="Transparent"
+                                   Foreground="{Binding MsgLableForeground,RelativeSource={RelativeSource TemplatedParent}}"
+                                   FontWeight="Bold"/>
+                        </Canvas>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

@@ -1,0 +1,23 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:CircleProcessBar">
+    <local:ValueToProcessConverter x:Key="ValueToProcessConverter"/>
+    <Style TargetType="{x:Type local:CircularProcessBarControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="local:CircularProcessBarControl">
+                    <Grid Width="{TemplateBinding Width}" Height="{TemplateBinding Height}">
+                        <ProgressBar Minimum="0" Maximum="100" Value="{Binding SuccessRate, Mode=OneWay}">
+                            <ProgressBar.Template>
+                                <ControlTemplate TargetType="ProgressBar">
+                                    <Border Background="{TemplateBinding Value, Converter={StaticResource ValueToProcessConverter}, ConverterParameter=200}"/>
+                                </ControlTemplate>
+                            </ProgressBar.Template>
+                        </ProgressBar>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

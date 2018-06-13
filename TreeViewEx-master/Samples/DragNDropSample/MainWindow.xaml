@@ -1,0 +1,32 @@
+﻿<Window x:Class="DragNDropSample.MainWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:tvx="clr-namespace:tainicom.TreeViewEx;assembly=TreeViewEx"
+      xmlns:Model="clr-namespace:DragNDropSample.Model" Title="MainWindow" Height="300" Width="400"
+      AutomationProperties.Name="TestApp2Window">
+	<Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="PathsAndGradients.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            <HierarchicalDataTemplate ItemsSource="{Binding Children}" DataType="{x:Type Model:Node}">
+                <TextBlock Text="{Binding Name}" />
+            </HierarchicalDataTemplate>
+            
+            <Style TargetType="{x:Type tvx:TreeViewEx}"      
+                   BasedOn="{StaticResource {x:Type tvx:TreeViewEx}}">
+                <Setter Property="InsertionMarkerBrush" Value="DarkGray" />
+            </Style>
+            
+        </ResourceDictionary>
+	</Window.Resources>
+
+	<DockPanel>
+        <tvx:TreeViewEx AutomationProperties.Name="TestApp2Tree" InsertionMarkerBrush="DarkGray"
+            ItemsSource="{Binding Path=Children}"
+                             DragCommand="{Binding Path=DragCommand}" 
+                             DropCommand="{Binding Path=DropCommand}" 
+                             />
+        <TextBlock Margin="5" Text="Drop Me In Tree!" PreviewMouseDown="OnMouseDown" PreviewMouseMove="OnMouseMove" />        
+    </DockPanel>
+</Window>

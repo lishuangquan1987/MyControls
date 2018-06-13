@@ -1,0 +1,80 @@
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.pdb
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\bin\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ResolveAssemblyReference.cache
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.FindForm.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.GoToForm.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ReplaceForm.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ucLuaEditor.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ClassFileList.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ComplieUI.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.zh-CHS.resources
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.csproj.GenerateResource.Cache
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.dll
+E:\公司项目\1508#\2015-06-08\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\bin\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-9-28日修改V6\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\bin\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-10-26日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.pdb
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ResolveAssemblyReference.cache
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.FindForm.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.GoToForm.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ReplaceForm.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ucLuaEditor.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ClassFileList.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ComplieUI.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.zh-CHS.resources
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.csproj.GenerateResource.Cache
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.dll
+E:\1508#\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.pdb
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Release\ucCodeEditor.pdb
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\bin\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ResolveAssemblyReference.cache
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.FindForm.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.GoToForm.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ReplaceForm.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ucLuaEditor.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ClassFileList.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.ComplieUI.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.textEditor.zh-CHS.resources
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.csproj.GenerateResource.Cache
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\zh-CHS\ucCodeEditor.resources.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.dll
+E:\A 涿州项目资料\BaseATS-2015-11-3日修改\BaseATS\ucCodeEditor\obj\Release\ucCodeEditor.pdb

@@ -1,0 +1,27 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:TonyTab2017="clr-namespace:TonyTab2017;assembly=TonyTab2017" x:Class="Test.TonyTab2017Test"
+        Title="TonyTab2017Test" Height="500" Width="700">
+    <Grid>
+
+        <TonyTab2017:TonyTabControl HorizontalAlignment="Left" Height="398" Margin="26,29,0,0" VerticalAlignment="Top" Width="617">
+            
+           
+            <TonyTab2017:TonyTabItem HeaderHeight="50" HeaderBackground="Gray" HeaderWidth="150" HeaderLeftMargin="2">
+                <Grid Background="Red"></Grid>
+            </TonyTab2017:TonyTabItem>
+            <TonyTab2017:TonyTabItem HeaderHeight="50" HeaderBackground="Gray" HeaderText="11111111" HeaderWidth="120" HeaderLeftMargin="2">
+                <Grid Background="Black"></Grid>
+            </TonyTab2017:TonyTabItem>
+            <TonyTab2017:TonyTabItem HeaderHeight="50" HeaderBackground="Gray" HeaderText="222222222" HeaderWidth="120" HeaderLeftMargin="2">
+                <Grid Background="Yellow"></Grid>
+            </TonyTab2017:TonyTabItem>
+            <TonyTab2017:TonyTabItem HeaderHeight="50" HeaderBackground="Gray" HeaderText="333" HeaderWidth="150" HeaderLeftMargin="2">
+                <Grid Background="Gainsboro"></Grid>
+            </TonyTab2017:TonyTabItem>
+        </TonyTab2017:TonyTabControl>
+        <Button Content="LuaEditor" Click="Button_Click" HorizontalAlignment="Left" Margin="585,438,0,0" VerticalAlignment="Top" Width="75"/>
+
+    </Grid>
+</Window>
