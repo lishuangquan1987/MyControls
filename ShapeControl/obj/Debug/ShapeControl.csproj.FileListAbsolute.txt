@@ -1,0 +1,9 @@
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.ColorEditorControl.resources
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.CustomControl1.resources
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.ShapeTypeEditorControl.resources
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.csproj.GenerateResource.cache
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.csproj.CoreCompileInputs.cache
+E:\Project2018\MyControls\ShapeControl\bin\Debug\ShapeControl.dll
+E:\Project2018\MyControls\ShapeControl\bin\Debug\ShapeControl.pdb
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.dll
+E:\Project2018\MyControls\ShapeControl\obj\Debug\ShapeControl.pdb

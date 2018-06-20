@@ -1,0 +1,6 @@
+C:\Users\kokwah_yang\Downloads\ShapeControl_CodeProject\TestShapeControl\bin\Release\TestShapeControl.exe
+C:\Users\kokwah_yang\Downloads\ShapeControl_CodeProject\TestShapeControl\bin\Release\ShapeControl.dll
+C:\Users\kokwah_yang\Downloads\ShapeControl_CodeProject\TestShapeControl\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kokwah_yang\Downloads\ShapeControl_CodeProject\TestShapeControl\obj\Release\TestShapeControl.Form1.resources
+C:\Users\kokwah_yang\Downloads\ShapeControl_CodeProject\TestShapeControl\obj\Release\TestShapeControl.csproj.GenerateResource.Cache
+C:\Users\kokwah_yang\Downloads\ShapeControl_CodeProject\TestShapeControl\obj\Release\TestShapeControl.exe
