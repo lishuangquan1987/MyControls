@@ -23,3 +23,4 @@ E:\Project2018\MyControls\TabControl\obj\Debug\Wpf.TabControl.csproj.GenerateRes
 E:\Project2018\MyControls\TabControl\obj\Debug\Wpf.TabControl.csproj.CoreCompileInputs.cache
 E:\Project2018\MyControls\TabControl\obj\Debug\Wpf.TabControl.dll
 E:\Project2018\MyControls\TabControl\obj\Debug\Wpf.TabControl.pdb
+E:\Project2018\MyControls\TabControl\obj\Debug\Wpf.TabControl.csprojAssemblyReference.cache
