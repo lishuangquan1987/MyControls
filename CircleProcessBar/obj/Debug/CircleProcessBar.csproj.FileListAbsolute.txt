@@ -21,3 +21,16 @@ E:\GitBackup\Project\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.cspr
 E:\GitBackup\Project\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.dll
 E:\GitBackup\Project\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.pdb
 E:\Project2017\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.csprojResolveAssemblyReference.cache
+E:\Project2018\MyControls\CircleProcessBar\bin\Debug\CircleProcessBar.dll
+E:\Project2018\MyControls\CircleProcessBar\bin\Debug\CircleProcessBar.pdb
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar_MarkupCompile.cache
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar_MarkupCompile.lref
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\Themes\Generic.baml
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.g.resources
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.Properties.Resources.resources
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.csproj.GenerateResource.cache
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.csproj.CoreCompileInputs.cache
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.dll
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.pdb
+E:\Project2018\MyControls\CircleProcessBar\obj\Debug\CircleProcessBar.csprojAssemblyReference.cache

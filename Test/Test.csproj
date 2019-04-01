@@ -65,6 +65,9 @@
     <Compile Include="TabTest.xaml.cs">
       <DependentUpon>TabTest.xaml</DependentUpon>
     </Compile>
+    <Compile Include="TemperatureControlTest.xaml.cs">
+      <DependentUpon>TemperatureControlTest.xaml</DependentUpon>
+    </Compile>
     <Compile Include="TonyTab2017Test.xaml.cs">
       <DependentUpon>TonyTab2017Test.xaml</DependentUpon>
     </Compile>
@@ -88,6 +91,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="TabTest.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TemperatureControlTest.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

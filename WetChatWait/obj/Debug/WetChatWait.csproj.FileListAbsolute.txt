@@ -21,3 +21,16 @@ E:\GitBackup\Project\MyControls\WetChatWait\obj\Debug\WetChatWait.csproj.Generat
 E:\GitBackup\Project\MyControls\WetChatWait\obj\Debug\WetChatWait.dll
 E:\GitBackup\Project\MyControls\WetChatWait\obj\Debug\WetChatWait.pdb
 E:\Project2017\MyControls\WetChatWait\obj\Debug\WetChatWait.csprojResolveAssemblyReference.cache
+E:\Project2018\MyControls\WetChatWait\bin\Debug\WetChatWait.dll
+E:\Project2018\MyControls\WetChatWait\bin\Debug\WetChatWait.pdb
+E:\Project2018\MyControls\WetChatWait\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait_MarkupCompile.cache
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait_MarkupCompile.lref
+E:\Project2018\MyControls\WetChatWait\obj\Debug\Themes\Generic.baml
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.g.resources
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.Properties.Resources.resources
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.csproj.GenerateResource.cache
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.csproj.CoreCompileInputs.cache
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.dll
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.pdb
+E:\Project2018\MyControls\WetChatWait\obj\Debug\WetChatWait.csprojAssemblyReference.cache

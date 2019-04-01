@@ -34,3 +34,16 @@ E:\Project2017\MyControls\CircularGauge\obj\Debug\CircularGauge.csproj.GenerateR
 E:\Project2017\MyControls\CircularGauge\obj\Debug\CircularGauge.dll
 E:\Project2017\MyControls\CircularGauge\obj\Debug\CircularGauge.pdb
 E:\Project2017\MyControls\CircularGauge\obj\Debug\CircularGauge.csprojResolveAssemblyReference.cache
+E:\Project2018\MyControls\CircularGauge\bin\Debug\CircularGauge.dll
+E:\Project2018\MyControls\CircularGauge\bin\Debug\CircularGauge.pdb
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.csprojAssemblyReference.cache
+E:\Project2018\MyControls\CircularGauge\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge_MarkupCompile.cache
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge_MarkupCompile.lref
+E:\Project2018\MyControls\CircularGauge\obj\Debug\Themes\Generic.baml
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.g.resources
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.Properties.Resources.resources
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.csproj.GenerateResource.cache
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.csproj.CoreCompileInputs.cache
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.dll
+E:\Project2018\MyControls\CircularGauge\obj\Debug\CircularGauge.pdb

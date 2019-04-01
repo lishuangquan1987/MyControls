@@ -22,3 +22,15 @@ E:\Project2017\MyControls\TonyTab2017\obj\Debug\TonyTab2017.csproj.GenerateResou
 E:\Project2017\MyControls\TonyTab2017\obj\Debug\TonyTab2017.dll
 E:\Project2017\MyControls\TonyTab2017\obj\Debug\TonyTab2017.pdb
 E:\GitBackup\Project\好用的控件\WPF\MyControls\TonyTab2017\obj\Debug\TonyTab2017.csprojResolveAssemblyReference.cache
+E:\Project2018\MyControls\TonyTab2017\bin\Debug\TonyTab2017.dll
+E:\Project2018\MyControls\TonyTab2017\bin\Debug\TonyTab2017.pdb
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017_MarkupCompile.cache
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017_MarkupCompile.lref
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\Themes\Generic.baml
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017.g.resources
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017.Properties.Resources.resources
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017.csproj.GenerateResource.cache
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017.csproj.CoreCompileInputs.cache
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017.dll
+E:\Project2018\MyControls\TonyTab2017\obj\Debug\TonyTab2017.pdb

@@ -8,3 +8,9 @@ E:\GitBackup\Project\MyControls\LoadingCircle\obj\Debug\LoadingCircle.dll
 E:\GitBackup\Project\MyControls\LoadingCircle\obj\Debug\LoadingCircle.pdb
 E:\GitBackup\Project\MyControls\LoadingCircle\obj\Debug\LoadingCircle.csprojResolveAssemblyReference.cache
 E:\Project2017\MyControls\LoadingCircle\obj\Debug\LoadingCircle.csprojResolveAssemblyReference.cache
+E:\Project2018\MyControls\LoadingCircle\bin\Debug\LoadingCircle.dll
+E:\Project2018\MyControls\LoadingCircle\bin\Debug\LoadingCircle.pdb
+E:\Project2018\MyControls\LoadingCircle\obj\Debug\LoadingCircle.csprojAssemblyReference.cache
+E:\Project2018\MyControls\LoadingCircle\obj\Debug\LoadingCircle.csproj.CoreCompileInputs.cache
+E:\Project2018\MyControls\LoadingCircle\obj\Debug\LoadingCircle.dll
+E:\Project2018\MyControls\LoadingCircle\obj\Debug\LoadingCircle.pdb
